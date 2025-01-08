@@ -1,4 +1,4 @@
-# PDF Question Answering App
+# PDF Question Answering App 
 
 This interactive app, made using **Chainlit**, allows users to upload multiple files, extract content, and interact with the content. It uses **pdfplumber** to upload the file, and uses **SentenceTransformers** and **flan-t5-large** for the Embedding System and LLM model respectively, thus extracting precise answers from the texts.
 
@@ -9,7 +9,7 @@ This interactive app, made using **Chainlit**, allows users to upload multiple f
 - Highlight relevant answers in the PDF.
 - Allows for multiple question-answering sessions.
 
-## Requirements
+## Requirements (Demo Video At the End)
 
 - Python 3.x
 - sentence-transformers
@@ -22,7 +22,7 @@ This interactive app, made using **Chainlit**, allows users to upload multiple f
 - numpy
 - re
 
-## Setup and Usage
+## Setup and Usage(Main file : Application.py)
 
 ### Clone the Repository (To get all files in your system)
 
