@@ -27,14 +27,14 @@ This interactive app, made using **Chainlit**, allows users to upload multiple f
 ### Clone the Repository (To get all files in your system)
 
 (In Bash)
-- `git clone https://github.com/yourusername/pdf-question-answering-app.git`
-- `cd pdf-question-answering-app`
+- `git clone https://github.com/GitHub-arihant/Chat-With_PDF`
+- `cd Chat-With_PDF`
 
 ### Create Virtual Environment (To isolate the project dependencies)
 
 (For Windows:)
 - `python -m venv venv`
-- `venv\Scripts\activate`
+- `venv/Scripts/activate`
 
 (For macOS/Linux:)
 - `python3 -m venv venv`
@@ -43,7 +43,7 @@ This interactive app, made using **Chainlit**, allows users to upload multiple f
 ### Install Dependencies (install all the libraries that are used in the Project)
 
 (In Bash)
-- `pip install -r requirements.txt`
+- `pip install -r required.txt`
 
 ### Run the Application
 
