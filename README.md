@@ -22,7 +22,9 @@ This interactive app, made using **Chainlit**, allows users to upload multiple f
 - numpy
 - re
 
-## Setup and Usage(Main file : Application.py)
+## Setup and Usage 
+
+### (Main file : Application.py)
 
 ### Clone the Repository (To get all files in your system)
 
